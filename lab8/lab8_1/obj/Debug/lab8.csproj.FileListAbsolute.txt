@@ -1,0 +1,6 @@
+D:\university\C#lab2016\С#\lab8\lab8_1\bin\Debug\lab8_1.exe.config
+D:\university\C#lab2016\С#\lab8\lab8_1\bin\Debug\lab8_1.exe
+D:\university\C#lab2016\С#\lab8\lab8_1\bin\Debug\lab8_1.pdb
+D:\university\C#lab2016\С#\lab8\lab8_1\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\university\C#lab2016\С#\lab8\lab8_1\obj\Debug\lab8_1.exe
+D:\university\C#lab2016\С#\lab8\lab8_1\obj\Debug\lab8_1.pdb

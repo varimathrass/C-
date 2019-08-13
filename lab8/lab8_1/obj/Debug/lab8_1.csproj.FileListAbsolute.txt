@@ -1,0 +1,7 @@
+C:\Users\Egor\source\repos\lab8_1\lab8_1\bin\Debug\lab8_1.exe.config
+C:\Users\Egor\source\repos\lab8_1\lab8_1\bin\Debug\lab8_1.exe
+C:\Users\Egor\source\repos\lab8_1\lab8_1\bin\Debug\lab8_1.pdb
+C:\Users\Egor\source\repos\lab8_1\lab8_1\obj\Debug\lab8_1.csprojResolveAssemblyReference.cache
+C:\Users\Egor\source\repos\lab8_1\lab8_1\obj\Debug\lab8_1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\lab8_1\lab8_1\obj\Debug\lab8_1.exe
+C:\Users\Egor\source\repos\lab8_1\lab8_1\obj\Debug\lab8_1.pdb

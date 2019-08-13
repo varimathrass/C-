@@ -1,0 +1,7 @@
+c:\users\egor\source\repos\lab6_2\lab6_2\bin\Debug\lab6_2.exe.config
+c:\users\egor\source\repos\lab6_2\lab6_2\bin\Debug\lab6_2.exe
+c:\users\egor\source\repos\lab6_2\lab6_2\bin\Debug\lab6_2.pdb
+c:\users\egor\source\repos\lab6_2\lab6_2\obj\Debug\lab6_2.csprojResolveAssemblyReference.cache
+c:\users\egor\source\repos\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+c:\users\egor\source\repos\lab6_2\lab6_2\obj\Debug\lab6_2.exe
+c:\users\egor\source\repos\lab6_2\lab6_2\obj\Debug\lab6_2.pdb

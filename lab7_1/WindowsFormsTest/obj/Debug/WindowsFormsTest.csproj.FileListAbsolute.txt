@@ -1,0 +1,10 @@
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csprojResolveAssemblyReference.cache
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Form1.resources
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.GenerateResource.Cache
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+C:\Users\Egor\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
